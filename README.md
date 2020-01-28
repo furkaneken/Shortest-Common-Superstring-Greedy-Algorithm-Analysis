@@ -1,4 +1,4 @@
-# Shortest-Common-Superstring-Greedy-Algorithm-Analysis
+# Shortest-Common-Superstring-Greedy-Algorithm-Analysis(NP Hard)
 
 I did coding part of this project,  proof etc done by rest of group.
 
